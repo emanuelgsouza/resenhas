@@ -1,0 +1,21 @@
+{
+  "name": "resenhas",
+  "version": "1.0.0",
+  "description": "Repositório para as minhas resenhas de livros que leio com integração do Gitbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gitbook build . livro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuelgsouza/resenhas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuelgsouza/resenhas/issues"
+  },
+  "homepage": "https://github.com/emanuelgsouza/resenhas#readme"
+}
