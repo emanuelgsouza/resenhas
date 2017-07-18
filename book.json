@@ -1,8 +1,8 @@
 {
-  "structure": {
-    "readme": "introducao.md"
-  },
   "title" : "Livro de resenhas",
   "description": "Repositório para as minhas resenhas de livros que leio com integração do Gitbook",
-  "language": "pt"
+  "language": "pt",
+  "structure": {
+    "readme": "introducao.md"
+  }
 }
