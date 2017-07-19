@@ -1,3 +1,16 @@
 # Teologia dos Reformadores
 
-[Introdução](./introducao.html)
+## Dados do livro:
+
+Título: **Teologia dos Reformadores**
+
+Autor: **Timothy George**
+
+Editora: **Vida Nova**
+
+Páginas: 344
+
+## Sumário
+
+* [Introdução](./introducao.html)
+* [Capítulo 1](./chapter1.md)
