@@ -4,4 +4,5 @@ Este espaço está reservado para que seja encontrado resenhas de diversos livro
 
 Livros
 
-+ [Teologia dos Reformadores](./teologia-reformadores.md)
++ [Teologia dos Reformadores](./teologia-reformadores/capa.md)
++ [Apologética Contemporânea](./apologetica-contemporanea/capa.md)
