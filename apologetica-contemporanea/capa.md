@@ -14,3 +14,4 @@ Páginas: 400
 
 * [Introdução](./introducao.html)
 * [Cap. 1 - Como sei que o Cristianismo é Verdadeiro](./chapters/chapter-one.html)
+* [Cap. 2 - O absurdo da vida sem Deus](./chapters/chapter-two.html)
