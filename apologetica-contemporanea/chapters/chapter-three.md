@@ -90,3 +90,74 @@ Este argumento defende que Deus é a materialização do Bem fundamental, dos ab
 #### Tomás de Aquino
 
 Afirma que se há graduações de valor na natureza, isto é, que se eu posso afirmar que há algo mais belo, mais nobre. Se eu consigo comparar de forma que haja o maior ou pior em algum quesito, eu posso chegar a um absoluto, isto é, alguém que seja o mais bom, o mais belo, o mais grandioso. Esse alguém é Deus.
+
+## Avaliação
+
+Neste momento, vamos dar uma olhada na argumentação de Craig, foi bastante intenso e profundo as análises do filósofo, espero que seja de grande auxílio.
+
+### O argumento cosmológico de Leibniz
+
+De maneira simples:
+
+1. Tudo o que existe tem uma explicação para existir, seja por uma necessidade de sua própria natureza, seja por uma causa externa.
+2. Se há uma explicação para a existência do universo, essa explicação é Deus.
+3. O universo existe.
+4. Portanto, o universo tem uma explicação para existir (com base em 1 e 3).
+5. Portanto, a explicação para a existência do universo é Deus (com base em 2 e 4).
+
+> livro página 102
+
+#### Premissa 1 - O princípio da razão suficiente
+
+Segundo Craig, podemos chegar a conclusão dessa premissa afirmando que:
+
+> qualquer explicação acerca da razão pela qual o universo existe deve ser buscada num estado causal anterior de coisas em que o universo não existe
+
+> livro página 103
+
+Todavia, tal conclusão pode nos levar a acreditar que antes do universo havia um vazio, nada existia, e esse nada criou tudo que existe. Isso é um absurdp, **pois nada pode existir do nada**. Porem, podemos acreditar que a existência do universo pode encontrar uma causa sobrenatural, metafísica, e não uma causa natural, física, como anteriormente. O autor coloca que:
+
+> A explicação para a existência do universo físico pode ser atribuída a um estado de coisas causais anterior não físico
+
+> livro IDEM
+
+Só um adendo, a Bíblia nos afirma que antes de existir qualquer coisa:
+
+> A Terra era sem forma e vazia Genesis 1.2a
+
+E a partir desse nada, Deus faz com que as coisas existem, como nos afirma:
+
+> Pela fé entendemos que os mundos pela palavra de Deus foram criados; de maneira que **aquilo que se vê não foi feito do que é aparente** Hebreus 11:3
+
+#### Premissa 2 - A explicação para o universo
+
+Segundo o autor, apesar da afirmação 2 ser uma afirmação ousada por parte do teísmo, ela é somente uma negação da afirmação ateísta que nega a existência de Deus a partir da negação da existência para a explicação do universo. Cito o que o autor coloca que merece mensão aqui:
+
+> Além disso, a premissa (2) parece bastante plausível por si mesma, já que o universo, por definição, abrange a realidade inteira. Portanto, a causa do universo deve (pelo menos em sentido causal anterior à existência do universo) transcender o espaço e o tempo e, portanto, não pode ser física e nem material. Contudo, há somente duas espécies de coisas que poderiam se encaixar em tal descrição: um objeto abstrato (um número, por exemplo) ou uma mente (uma alma, um eu). Todavia, objetos abstratos não se prestam a relações causais. Essa é uma das características do abstrato. O número 7, por exemplo, não causa coisa alguma. Portanto, se há uma explicação para a existência do universo, tal explicação deve ser buscada em uma Mente transcendente, incorpórea, criadora do universo — e é a isso que a grande maioria das pessoas se refere quando emprega a palavra “Deus”
+
+> Livro página 104
+
+### O argumento cosmológico *kalam*
+
+Em suma:
+
+1. Tudo o que começa a existir tem uma causa.
+2. O universo começou a existir.
+3. Portanto, o universo tem uma causa.
+
+#### Premissa 1 - Tudo o que começa a existir tem uma causa
+
+Esta premissa nos parece evidente, pois para a grande maioria das pessoas, a realidade que nos cerca não surgiu do nada, **ela teve uma causa**. Um outro ponto importante é a distorção do argumento, que afirma que `Tudo o que existe deve ter uma causa`, logo, `O que causou Deus?`. Tal argumento, ao mesmo tempo que é perigoso, não condiz com a premissa 1, tendo em vista que Deus não entra no bojo dos entes que tiveram uma causa. Deus é um existente em si, não foi criado e existe fora do espaço-tempo.
+
+Vamos a algumas asserções:
+
+* É impossível que haja um regresso temporal de causas, isto é, que consigamos regressar infinitamente no espaço-tempo. Portanto, a realidade que nos cerca teve um início.
+
+* Existe um modelo atual que afirma que o universo possui uma história. Este modelo é o de [Friedman-Lemaître](https://pt.wikipedia.org/wiki/M%C3%A9trica_de_Friedmann-Lema%C3%AEtre-Robertson-Walker). Segundo esse modelo, a partir da física quãntica, podemos chegar a conclusão de que o universo está em constante espansão e contração.
+
+Para saber um pouco mais sobre esse assunto, recomendo os seguintes conteúdos:
+
++ [Lei de Hubble e a expansão do universo](http://brasilescola.uol.com.br/fisica/a-lei-hubble-expansao-universo.htm)
++ [Vídeo sobre a expansão do universo](https://www.youtube.com/watch?v=kJxwqT3kWAQ)
++ [Texto sobre a expansão do universo](http://www.cartaeducacao.com.br/aulas/o-universo-em-expansao/)
++ [O Efeito Dopler](http://brasilescola.uol.com.br/fisica/o-efeito-doppler.htm)
