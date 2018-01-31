@@ -161,3 +161,21 @@ Para saber um pouco mais sobre esse assunto, recomendo os seguintes conteúdos:
 + [Vídeo sobre a expansão do universo](https://www.youtube.com/watch?v=kJxwqT3kWAQ)
 + [Texto sobre a expansão do universo](http://www.cartaeducacao.com.br/aulas/o-universo-em-expansao/)
 + [O Efeito Dopler](http://brasilescola.uol.com.br/fisica/o-efeito-doppler.htm)
+
+##### A questão da segunda lei da termodinâmica
+
+Por fim, há mais um embasamento para a teoria de que o universo possui uma história: **a segunda lei da termodinâmica**. Segundo ela, todo sistema fechado tende a procurar um estado de equilíbrio. O que seria o estado de equilíbrio aplicado ao universo? Basicamente, será o estado que leve o universo a sua morte. Sim, segundo os especialistas, o universo possui um fim, tendo em vista, a cada vez que ele se expande, as estrelas ficam mais distantes umas das outras, queimando sem parar até não restar mais nada. Por fim, quando todas as estrelas tiverem queimado seu combustível, o universo terá um morte gélida.
+
+A questão que se coloca aqui, portanto, é porquê, até o momento, o universo ainda não morreu? Porquê ainda as estrelas não se queimaram completamente? Se o universo existe eternamente, como defendem os ateus, porquê ainda não chegamos ao estado de equilíbrio? Por que o universo possui um início.
+
+##### A natureza da primeira causa
+
+É plausível que a causa do universo seja uma pessoa, porquê?
+
+1. Há dois tipos de explicação causal (qual foi a causa de alguma coisa?): a científica e a pessoal. A primeira não pode ser aplicada ao universo, pois, se antes dele não existia nada, não existia leis científicas que expliquem sua causa. A segunda faz mais sentido aqui, portanto, a explicação para a causa do universo deve ser dada no plano pessoal, com um agente que tem poder de vontade.
+
+2. Como não havia nada antes do universo, nem matéria e tempo, só podemos dizer que o universo possui uma causa abstrata ou mental (pessoal). A causa não poderia ser abstrata porque coisas abstratas não causam nada, por exemplo, os números. Portanto, é mais plausível crer que foi uma causa no plano da mente.
+
+3. Por fim, o universo *passou a existir no tempo a partir de uma causa atemporal*. A única forma de se fazer sentido a expressão acima, é quando afirmamos que *um agente dotado de vontade, eterno, decidiu que o universo passasse a existir*.
+
+Sendo assim, podemos afirmar, a partir da conclusão do argumento *kalam*, que o universo teve como causa: Deus, um agente eterno, não causado (isto é, não possui uma causa para sua existência), imaterial, imutável, ilimitado em poder.
