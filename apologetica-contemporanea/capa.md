@@ -17,3 +17,4 @@ Páginas: 400
 * [Cap. 2 - O absurdo da vida sem Deus](./chapters/chapter-two.html)
 * [Cap. 3 - Sobre a existência de Deus - Parte 1](./chapters/chapter-three.html)
 * [Cap. 4 - Sobre a existência de Deus - Parte 2](./chapters/chapter-four.html)
+* [Cap. 5 - O problema do conhecimento histórico](./chapters/chapter-five.html)

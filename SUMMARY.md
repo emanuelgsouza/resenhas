@@ -13,3 +13,4 @@
   * [Cap. 2 - O absurdo da vida sem Deus](./apologetica-contemporanea/chapters/chapter-two.md)
   * [Cap. 3 - Sobre a existência de Deus - Parte 1](./apologetica-contemporanea/chapters/chapter-three.md)
   * [Cap. 4 - Sobre a existência de Deus - Parte 2](./apologetica-contemporanea/chapters/chapter-four.md)
+  * [Cap. 5 - O problema do conhecimento histórico](./apologetica-contemporanea/chapters/chapter-five.md)
