@@ -53,3 +53,73 @@ Aqui que a corda aperta um pouco para o lado do conhecimento histórico. A parti
 2. E uma oposta a anterior, em que o historiador não poderá ficar isento na construção dos fatos históricos. Sua experiência pessoal sempre afetará sua percepção sobre os fatos.
 
 Qual o impacto para a apologética? O resultado dessa busca pelo conhecimento histórico teve como impacto a busca pelo Jesus histórico, isto é, pelo Jesus humano, sem a face divina. O problema é que, os historiadores ao analisarem a Jesus, o fizeram a partir de suas percpectivas pessoais, o que fez com que se produzisse muito material bem distante do quem foi realmente o Jesus apresentado nos evangelhos.
+
+### Avaliação
+
+A partir de agora, coloco de maneira resumida, a avaliação do autor acerca do tema. Primeiramente, é importante afirmar que não podemos ser ingênuos e acreditarmos podemos apreender a realidade objetiva do passado. Assim como não podemos deixar de lado o elemento subjetivo na análise do historiador.
+
+#### Objeções a objetividade da história
+
+##### O problema da falta de acesso direto
+
+Segundo esse posicionamento, não podemos conhecer o passado porque não temos acesso direto a ele. Tal postura nos leva a duas implicações:
+
+* Ela afeta o modo como vemos os fatos históricos
+
+Segundo um relativista famoso, [Carl Becker](https://en.wikipedia.org/wiki/Carl_L._Becker),
+
+> os fatos históricos estão apenas na mente. O fato em si se foi, e não temos nada mais que declarações do historiador sobre o fato.
+
+> página 213
+
+* Sendo assim, não temos como testar a veracidade dos fatos históricos, porque não temos acesso a ele diretamente, tal como os cientistas
+
+##### O problema da falta de neutralidade
+
+Segundo esse posicionamento, o historiador, ao fazer sua análise da história, o faz a partir de sua mente, de sua visão de mundo (cosmologia) presente no momento da análise. Segundo [Karl Popper](https://pt.wikipedia.org/wiki/Karl_Popper):
+
+> não pode haver história do passado como ele realmente aconteceu; pode haver apenas interpretações históricas, das quais nenhuma é definitiva; e cada geração tem o direito de fazer a sua
+
+> página 215
+
+---
+
+Vamos a crítica apresentada pelo autor às objeções
+
+#### Crítica ao relativismo histórico
+
+##### O problema da falta de acesso direto
+
+O autor nos coloca diferenciação acerca do que seria construcionismo como metodologia e como filosofia.
+
+* Como filosofia, também entendida como tese ontológica acerca de como a realidade é construída:
+
+> O construcionismo ontológico entende que o historiador, na verdade, constitui os próprios fatos do passado por meio da sua re­construção; não há e nunca houve, realmente, o passado em si, apenas o passado para mim, relativo a cada pessoa
+
+> página 215
+
+O autor nos coloca a objeção a esse conceito, formulado por Platinga acerca da frase de [Richard Rorty](https://pt.wikipedia.org/wiki/Richard_Rorty), "verdade é o que os meus companheiros me permitem dizer":
+
+> Apesar de essa perspectiva ser bastante atualizada e estar na moda no mundo intelectual contemporâneo, suas consequências são peculiares, para não dizer absurdas. Por exemplo, a maioria de nós pensa que as autoridades chinesas fizeram uma coisa monstruosa ao assassinar aquelas centenas de jovens na praça da Paz Celestial, para depois ocultar sua maldade negando que o tinham feito. Na opinião de Rorty, porém, esse é um mal-entendido maldoso. O que as autoridades realmente estavam fazendo, ao negar que tinham assassinado esses
+estudantes, foi algo totalmente louvável: estavam se esforçando para mostrar que o alegado massacre nunca aconteceu. Estavam tentando fazer seus companheiros deixá-los dizer que o massacre nunca aconteceu, ou seja, estavam tentando tornar verdadeiro que ele nunca aconteceu; e quem pode culpá-los por isso? O mesmo se aplica aos neonazistas de hoje que afirmam que não houve holocausto; do ponto de vista de Rorty, eles estão apenas tentando mostrar que uma coisa tão terrível nunca aconteceu; pode haver coisa mais louvável? Essa maneira de pensar tem possibilidades reais de lidar com pobreza e doença: é só permitir que digamos uns os outros que não existe nem pobreza nem doença — nem câncer nem AIDS, por exemplo — e será verdade que nada disso existe; e se é verdade que essas coisas não existem, é claro que elas não existem
+
+Uma outra questão a ser colocada, é que a única coisa que temos no presente são as nossas percepções sensoriais imediatas, portanto, insuficientes para basear nossa análise do passado.
+
+* Como metodologia, o construcionismo histórico é fundamental na análise histórica, pois a função do historiador é exatamente, a partir de evidências históricas, construir o passado. Os fatos aqui falam por si mesmos, de maneira que eles é que serão os delimitadores da análise do próprio historiador. Acerca desse tópico, é interessante colocar um trecho de Nowell-Smith:
+
+> Alguns resultados do pensamento histórico encontram-se tão bem estabelecidos, que seria loucura duvidar deles; outros têm apenas a condição de ser uma explicação mais provável das evidências do que qualquer outra hipótese concorrente. Esse é um ponto em que vale a pena nos determos. Por que ainda é razoável duvidar que tenha existido um personagem chamado rei Artur, mas totalmente irracional questionar a existência de George Washington? A razão não está fora do nosso alcance. Se levarmos a sério a hipótese de que nunca houve o personagem George Washington, enfrentaríamos o problema de explicar a existência
+de um conjunto tão vasto de provas — não testemunhos, mas provas, documentos de cuja existência e natureza temos conhecimento — que logo ficaria óbvio ser a tarefa impossível. Sem exagerar, a hipótese de que não houve essa pessoa fica enfraquecida diante da hipótese de que ela existiu; e esse é todo o padrão de prova que a história exige.
+
+> página 218
+
+##### O problema da falta de neutralidade
+
+Primeiramente, acerca da questão da falta de neutralidade, é importante, colocar: não dizemos que um fato histórico é falso devido a características sociais do nosso presente.
+
+Continuando, a seguir algumas considerações que mostram que até os relativistas precisam concordar que a história é um tanto objetiva:
+
+1. *Existe um núcleo de fatos indiscutíveis*: é inegável que certos (inúmeros) fatos históricos são indiscutíveis. É impossível que um relativista não concorde que George Washington existiu, que Getulio Vargas foi presidente do Brasil e assim por diante.
+
+2. *É possível distinguir história de propaganda*, se é possível distinguir, é porque certos fatos históricos são objetivos.
+
+3. *É possível distinguir história mal escrita (construída)*
